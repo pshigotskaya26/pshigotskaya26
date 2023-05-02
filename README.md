@@ -7,12 +7,14 @@
 ## 💻 About me:
 
 <p>I’m a junior front-end developer from Minsk. I have a great desire and motivation to develop and improve in the field of Frontend development as a specialist. I am responsible for the performance of my work and can work in multitasking.</p>
+<br />
 
 - I have successfully completed the Rolling Scopes School's Course "JS / Front-end, stage 1"
 - I have successfully completed the Rolling Scopes School's Course "JS / Front-end, stage 0"
 - Now I am studying React in the Rolling Scopes School
 - In my free time, I study the possibilities of web development
 - Write me an email: <pshihotskaya.tanya@gmail.com>
+  <br />
 
 ## Connect with me
 
@@ -24,8 +26,17 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>
+<br />
+
+## Portfolio:
+
+<p>You can see my projects on this link <a href="https://github.com/pshigotskaya26" target="_blank">MY PROJECTS</a>.</p>
+
+<br />
 
 ## 💻 Skills:
+
+<br />
 
 > Frontend:
 
@@ -38,7 +49,11 @@
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 </div>
 
+<br />
+
 > Other:
+
+<br />
 
 <div align="center">
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
@@ -46,3 +61,11 @@
 <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>
 </div>
+
+<br />
+
+## 💻 Codewars:
+
+<br />
+
+![codewars](https://www.codewars.com/users/pshihotskaya-tanya/badges/large)
