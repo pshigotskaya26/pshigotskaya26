@@ -16,7 +16,7 @@
 - Write me an email: <pshihotskaya.tanya@gmail.com>
   <br />
 
-## Connect with me
+## Connect with me:
 
 <div align="center">
 <a href="https://github.com/pshigotskaya26" target="_blank">
@@ -28,9 +28,9 @@
 </div>
 <br />
 
-## Portfolio:
+## My projects:
 
-<p>You can see my projects on this link <a href="https://github.com/pshigotskaya26" target="_blank">MY PROJECTS</a>.</p>
+<p>You can see my projects on this link <a href="https://pshigotskaya26.github.io/rsschool-cv/#projects" target="_blank">MY PROJECTS</a>.</p>
 
 <br />
 
