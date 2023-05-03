@@ -44,7 +44,7 @@
 
 ## 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/pshihotskaya-tanya/badges/large)
+[![codewars](https://www.codewars.com/users/pshihotskaya-tanya/badges/large)](https://www.codewars.com/users/pshihotskaya-tanya)
 
 ## 💻 Contact with me:
 
